@@ -3,6 +3,8 @@ Ein WordPress Plugin das dir deine alte Blogroll wieder ins Leben holt. Lege Lin
 
 Das Plugin nutzt WordPress interne Funktionen die nur aktiviert und erweitert wurden.
 
+(Das Plugin wurde bereits auf wp.org eingereicht und wird noch "überprüft")
+
 ## Shortcode
 
 `[blogroll]`
