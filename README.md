@@ -12,3 +12,8 @@ Das Plugin nutzt WordPress interne Funktionen die nur aktiviert und erweitert wu
 - Shortcode fürs Frontend
 - WordPress Link Manager (der Offizielle)
 - Links mit eingetragenen Feed werden auf deinem Dashboard angezeigt inkl. der letzten 5 Beiträge (Feed Reader)
+
+## Installation
+
+- Lade die Plugindateien in Dein /wp-content/plugins/plugin-name Verzeichnis, oder installiere das Plugin mit Hilfe der WordPress Plugins Seite in WordPress.
+- Aktiviere das Plugin auf der Plugin Seite in WordPress.
