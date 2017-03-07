@@ -23,3 +23,5 @@ Die Erweiterungen `SimpleXMLElement` und `file_get_contents` müssen funktionier
 
 - Lade die Plugindateien in Dein /wp-content/plugins/plugin-name Verzeichnis, oder installiere das Plugin mit Hilfe der WordPress Plugins Seite in WordPress.
 - Aktiviere das Plugin auf der Plugin Seite in WordPress.
+
+[Plugin auf WordPress.org](https://wordpress.org/plugins-wp/where-is-my-blogroll/)
